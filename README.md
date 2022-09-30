@@ -56,7 +56,7 @@ Additionally, the two visualizations show the percentage of the type of users an
 ![gender distribution](https://user-images.githubusercontent.com/106939511/190311361-2ae7d44e-d397-449b-8d2b-779c62aecd6f.png)
 
 
-The complete story can be visualized here : [link to dashboard](https://public.tableau.com/app/profile/angelica.alcantara/viz/ChallengeMod14_16630381446530/Story1#1)
+**TABLEAU: The complete story can be visualized here :** [link to dashboard](https://public.tableau.com/app/profile/angelica.alcantara/viz/ChallengeMod14_16630381446530/Story1#1)
 
 
 # SUMMARY
